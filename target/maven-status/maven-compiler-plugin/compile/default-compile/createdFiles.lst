@@ -1,0 +1,5 @@
+com\student\main\server\Server.class
+com\student\main\repository\RepositoryStudent.class
+com\student\main\entity\EntityMain.class
+com\student\main\controller\Control.class
+com\student\main\StudentMs6Application.class
