@@ -1,0 +1,4 @@
+com\comptrail\main\CompTrailApplication.class
+com\comptrail\main\models\Models.class
+com\comptrail\main\serv\Serv.class
+com\comptrail\main\repos\Reposit.class

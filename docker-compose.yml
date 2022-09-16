@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  app-spring:
+    build: .
+    ports:
+      - 8045:8045
+  
+  
+      
